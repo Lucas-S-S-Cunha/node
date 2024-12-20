@@ -1,0 +1,16 @@
+{
+  "name": "conceitos-node",
+  "version": "1.0.0",
+  "description": "\"este é um projeto base para aprender sobre node\"",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Lucas Souza",
+  "license": "ISC",
+  "keywords": [],
+  "dependencies": {
+    "express": "^4.21.0"
+  }
+}
